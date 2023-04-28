@@ -6,7 +6,7 @@ public class Sample {
 		
 		System.out.println("Hi good morning");
 		
-		System.out.println("Demo pgm");
+		System.out.println("Demo pgm for git");
 		
 		//It is working
 		
