@@ -6,5 +6,7 @@ public class PushandPullDemo {
 		System.out.println("Hi good morning");
 		
 		System.out.println("Push and pull");
+		
+		System.out.println("Hi");
 	}
 }
