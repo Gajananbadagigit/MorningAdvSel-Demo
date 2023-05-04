@@ -14,6 +14,8 @@ public class Sample {
 		
 		System.out.println("New push");
 		
+		System.out.println("Poll SCM");
+		
 		
 	}
 }
