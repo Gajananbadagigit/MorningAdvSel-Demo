@@ -12,6 +12,8 @@ public class Sample {
 		
 		//Hello
 		
+		System.out.println("New push");
+		
 		
 	}
 }
